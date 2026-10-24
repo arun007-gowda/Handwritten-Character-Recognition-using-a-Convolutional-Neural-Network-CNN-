@@ -1,4 +1,6 @@
-﻿# Handwritten-Character-Recognition-using-a-Convolutional-Neural-Network-CNN-
+<img width="658" height="545" alt="output" src="https://github.com/user-attachments/assets/97623b1f-5bb1-4671-b361-54587d7d38bb" />
+﻿<img width="795" height="171" alt="output2" src="https://github.com/user-attachments/assets/64f5ace7-bdb6-45dc-bc4a-537a20216aef" />
+ # Handwritten-Character-Recognition-using-a-Convolutional-Neural-Network-CNN-
  This repository contains the implementation of Handwritten Character Recognition (HCR), completed as part of the machine learning internship tasks (Task 3). The project utilizes digital image processing and deep learning methodologies to identify and classify handwritten digits and alphabets accurately.
 
 🎯 Objective
